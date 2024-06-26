@@ -1,5 +1,6 @@
 # Predictive-Modelling
-All files required to perform predictive modelling during internship at ImagInnovate.
+This repo consists of python files responsible to perform predictive modelling.
+End goal is to predict the target rate - achieved this task during my Internship at ImagInnovate.a
 
 Steps to follow:
 1) Run main1.py file with the given csv file as input
